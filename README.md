@@ -49,4 +49,4 @@ The file bank-comments.csv is a tab-separated text file containing the following
 
 
 
-For the mchine learning analysis, I've used LazyPredict, a Python package to train and compare multiple machine learning models at one go. 
+For the machine learning analysis, I've used LazyPredict, a Python package to train and compare multiple machine learning models at one go. 
